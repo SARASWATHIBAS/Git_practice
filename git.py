@@ -1,4 +1,5 @@
-print("Changing the original file at the exact same place")
-x=0
-y=0
+  
+def main():
+    """Checks if there's enough free memory in the computer."""
 
+main()

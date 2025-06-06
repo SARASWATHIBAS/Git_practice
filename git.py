@@ -1,4 +1,4 @@
-print("Changing the original file at the exact same place")
-x=0
-y=0
+def main():
+    print("Everything ok.")
 
+main()

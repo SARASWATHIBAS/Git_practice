@@ -1,5 +1,5 @@
   
 def main():
-    print("Creating a conflict")
+    print("Creating a merge conflict")
 
 main()

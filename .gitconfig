@@ -8,7 +8,7 @@
 	required = true
 
 [diff]
-	tool=meld
+    tool=meld
 [difftool "meld"]
 	path= C:/Program Files/Meld/Meld.exe
 [difftool]

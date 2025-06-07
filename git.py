@@ -1,4 +1,6 @@
   
 def main():
-    print("Hii Trying to create a conflict")
+    print("Hello All")
+    print("Trying to create a new conflict")
+    
 main()

@@ -1,0 +1,15 @@
+[user]
+	name = SARASWATHIBAS
+	email = saraswathibas@gmail.com
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+
+[diff]
+	tool=meld
+[difftool "meld"]
+	path= C:/Program Files/Meld/Meld.exe
+[difftool]
+	prompt = false
